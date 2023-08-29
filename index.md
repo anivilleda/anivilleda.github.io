@@ -12,23 +12,18 @@ Experienced Credit Analyst skilled in risk analysis for all types of banks and o
 
 ## Professional Experience
 ### Texas Bank and Trust, Credit Analyst Manager, Tyler, TX, SEPT 2020 - Current
-- Responsibility or Achievement 1
-- Responsibility or Achievement 2
-- Responsibility or Achievement 3
+- Manage and train a team of junior analyst in credit risk 
+- Review junior analyst credit request presentations for cash flow accuracy and loan policy exceptions
+- Evaluate and review appraisals performed for commercial real estate
 
 ### American State Bank, Credit Analyst, Tyler, TX, SEPT 2019 - SEPT 2020
-- Responsibility or Achievement 1
-- Responsibility or Achievement 2
-- Responsibility or Achievement 3
+- Reduced risk for the bank by determining the borrower's ability to repay the loan
+- Analyzed borrower’s financial statements and historical performance
+- Prepared borrowing base calculations for potential clients and existing clients in accordance with loan agreement covenants
 
 ## Skills
-- **Programming Languages:** STATA, Python, SAS
-- **Accounting Software:** [List relevant software here]
-- **Other Skills:** [List other relevant skills here]
-
-## Certifications
-- [Certification Name], [Issuing Organization], [Date]
-- [Another Certification Name], [Issuing Organization], [Date]
+- **Accounting Software:** Xperience, Synergy, Quickbooks
+- **Other Skills:** Excel, Word, Powerpoint
 
 ## References
 Available upon request.
