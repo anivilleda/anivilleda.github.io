@@ -1,4 +1,4 @@
-# [Ani Villeda]
+# Ani Villeda
 [Address Line 1] | [Address Line 2] | [City, State, ZIP]  
 [Phone Number] | [Email Address] | [LinkedIn Profile]
 
